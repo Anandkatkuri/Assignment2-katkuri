@@ -38,6 +38,6 @@ The below table shows the recommended drinks/food, their available location and 
 ---
 
 #### Motivational Quotes
-> The best way to predict the future is to invent it - *Einstein*
+> The best way to predict the future is to invent it - *Einstein*   
 > If you want to lift yourself up, lift up someone else - *Hastings*
 
