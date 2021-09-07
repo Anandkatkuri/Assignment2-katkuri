@@ -34,3 +34,10 @@ The below table shows the recommended drinks/food, their available location and 
 |             |           |            |
 | Dosa        |   Banglore|    45      |
 
+
+---
+
+#### Motivational Quotes
+> The best way to predict the future is to invent it - *Einstein*
+> If you want to lift yourself up, lift up someone else - *Hastings*
+
